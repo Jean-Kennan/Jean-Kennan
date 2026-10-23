@@ -21,9 +21,9 @@ A web app in three languages with accounts and sync, plus **Dreams**, an agent t
 readings in conversation. Calendar data comes from a deterministic engine, not from the model's memory, and
 the code keeps track of each reading's progress. Payments with Polar.
 
-**🌐 Adam Network** — the platform where the Adam agent lives, with its own users, leads and commissions.
+**🌐 [Adam Network](https://adam.altaidigital.co)** — the platform where the Adam agent lives, with its own users, leads and commissions.
 
-**📰 Altai Content Hub** — Altai's automated newsroom: news, campaigns and multi-channel publishing.
+**📰 [Altai Content Hub](https://periodista.altaidigital.co)** — Altai's automated newsroom: news, campaigns and multi-channel publishing.
 
 **🌐 [altaidigital.co](https://www.altaidigital.co)** — the company website (Next.js + Prisma).
 
@@ -64,9 +64,9 @@ App web en tres idiomas con cuentas y sincronización, más **Dreams**, un agent
 personalizadas conversando con la persona. Los datos del calendario salen de un motor determinista, no de la
 memoria del modelo, y el código lleva la cuenta del recorrido de cada lectura. Pagos con Polar.
 
-**🌐 Adam Network** — la plataforma donde vive el agente Adam, con sus propios usuarios, leads y comisiones.
+**🌐 [Adam Network](https://adam.altaidigital.co)** — la plataforma donde vive el agente Adam, con sus propios usuarios, leads y comisiones.
 
-**📰 Altai Content Hub** — la redacción automatizada de Altai: noticias, campañas y publicación en varios
+**📰 [Altai Content Hub](https://periodista.altaidigital.co)** — la redacción automatizada de Altai: noticias, campañas y publicación en varios
 canales.
 
 **🌐 [altaidigital.co](https://www.altaidigital.co)** — el sitio de la empresa (Next.js + Prisma).
